@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-hf_token=os.getenv("HF_TOKEN")
+
 
 DATA_PATH="data/"
 
